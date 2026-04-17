@@ -1,0 +1,70 @@
+{
+  "personal_info": {
+    "name": "Christopher Joseph",
+    "roles": [
+      "Computer Science Student",
+      "Aspiring Software Developer",
+      "Problem Solver"
+    ],
+    "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1974&auto=format&fit=crop",
+    "introduction": "I am a Computer Science student at SCMS School of Engineering and Technology with a strong academic record (CGPA: 8.39). I am passionate about building practical software solutions and continuously improving my development skills."
+  },
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "institution": "SCMS School of Engineering and Technology",
+      "period": "3rd Semester Ongoing",
+      "metrics": "8.39 CGPA"
+    },
+    {
+      "degree": "Higher Secondary",
+      "institution": "GHSS North Paravur",
+      "metrics": "97.9% Aggregate"
+    },
+    {
+      "degree": "SSLC",
+      "institution": "SNHSS North Paravur",
+      "metrics": "90% Score"
+    }
+  ],
+  "skills": {
+    "programming": ["Python", "Java", "C"],
+    "web_development": ["HTML5", "CSS3", "JavaScript"],
+    "database": ["MySQL", "MongoDB"],
+    "tools_and_vcs": ["Git", "GitHub", "VS Code"]
+  },
+  "projects": [
+    {
+      "title": "Lost and Found Management System",
+      "description": "A comprehensive solution built to efficiently manage items, report losses, search databases, and track recovery statuses. Features a clean desktop UI built with Tkinter.",
+      "tech_stack": ["Python", "MySQL"],
+      "github_link": "https://github.com/christopherjoseph-creator/projects",
+      "is_featured": true
+    }
+  ],
+  "experience_timeline": [
+    {
+      "title": "Project Architecture",
+      "description": "Focusing on Object-Oriented Programming. Implementing complex logic in Python and Java, focusing on software efficiency and data structures during my 3rd semester.",
+      "period": "Present"
+    },
+    {
+      "title": "Full Stack Exploration",
+      "description": "Web & Database Integration. Mastering MySQL and MongoDB for robust data storage while crafting responsive front-end experiences with modern CSS frameworks.",
+      "period": "2023 - 2024"
+    },
+    {
+      "title": "Foundational Programming",
+      "description": "C Language & Logic Building. Establishing a solid core in algorithmic thinking and memory management through C programming.",
+      "period": "2022 - 2023"
+    }
+  ],
+  "contact": {
+    "email": "christopherjoseph2244@gmail.com",
+    "phone": "+91 9995110106",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/christopher-joseph-236820354",
+      "github": "https://github.com/christopherjoseph-creator"
+    }
+  }
+}
